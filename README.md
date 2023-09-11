@@ -88,6 +88,61 @@ HIPAA is a federal law established in 1996 to protect U.S. patients' health info
 The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels. They are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.<br/>
 **Explanation:** Botium Toys needs to develop and implement appropriate user access and financial controls policies to ensure data safety, reduce risk and avoid fraud.
 
+# Stakeholder memorandum
+
+
+TO: IT Manager, Stakeholders
+FROM: Amaury
+DATE: 5/27/203
+SUBJECT: Internal IT Audit Findings and Recommendations
+
+Dear Colleagues,
+
+Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
+
+**Scope:** 
+The audit will assess the following:
+-	Current procedures. protocols, implemented controls and user permissions set in the following systems: accounting, end point detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
+-	Ensure current procedures, protocols, controls and user permissions implemented align with compliance requirements.
+-	Ensure current technology is accounted for hardware and system access.
+
+**Goals:**
+-	To adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF). 
+-	Establish a better process for their systems to ensure they are compliant. 
+-	Fortify system controls.
+-	Implement the concept of least permissions when it comes to user credential management. 
+-	Establish their policies and procedures, which includes their playbooks. 
+-	Ensure they are meeting compliance requirements. 
+
+
+**Critical findings (must be addressed immediately):** 
+-	Botium Toys needs to develop and implement policies to fulfill GPDR and PCI DSS requirements.
+-	Botium Toys needs to develop and implement appropriate user access and financial controls policies to align with SOC1and SOC2 standards for ensuring data safety, reduce risk and avoid fraud.
+The following security controls need to be implemented:
+-	Access control, account Management and Password policies.
+-	Password Management system.
+-	Less Privilege access and separation of duties.
+-	Disaster recovery plans and regular backups.
+-	Encryption for website payment transactions.
+-	IDS (Intrusion Detection system)
+-	Antivirus software
+-	Manual Monitoring, maintenance and intervention for legacy systems.
+-	CCTV
+-	Locks
+-	Fire detection and prevention systems.
+
+**Findings (should be addressed, but no immediate need):** 
+-	Adequate lighting
+-	Time-Controlled safe
+-	Locking cabinets
+-	Signage indicating alarm provider.
+**Summary/Recommendations:** 
+As Botium Toys conducts worldwide business including Europe and process credit card payments is recommended that the company immediately develop and implement policies to comply with GPDR and PCI DSS requirements. 
+Equally critical is the development and implementation of appropriate user access and financial controls policies to align with SOC1and SOC2 standards for ensuring data safety, reducing risk and avoid fraud.  It is necessary to promptly implement access control, account management, password policies, password management system, less privilege access and separation of duties. Additionally, Encryption is a way to secure customer information.
+Not less important is to develop a disaster Recovery plan and perform regular backups to be prepare for a disruptive cybersecurity attack and ensure the business continuity.
+The constantly monitoring of the system is critical to detect possible intrusions and mitigate risk; the implementation of IDS and AV software will address this issue and controls like locks, CCTV and fire detection system help us to secure the physical assets.
+Some other measures will improve the security posture but are not immediately required such as Adequate lighting, Time-Controlled safe, locking cabinet and signage indicating alarm provider.
+
 
 
 
